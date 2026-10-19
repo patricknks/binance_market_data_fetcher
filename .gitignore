@@ -1,0 +1,13 @@
+# Runtime / build output
+run.pid
+logs/
+target/
+
+# Local tooling
+.vscode/
+.github/java-upgrade/
+.github/modernize/
+
+# Superseded docs (QUICKSTART is merged into README.md)
+MIGRATION_SUMMARY.md
+QUICKSTART.md
